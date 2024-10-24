@@ -1,5 +1,7 @@
 # FDVTS-COV19D-DA
-This is the implementation of the paper "Domain Adaptation Using Pseudo Labels for COVID-19 Detection". We won the 1st prize in the second challenge "Covid-19 Domain Adaptation" of the 4th COV19D competition.
+This is the implementation of the paper "Domain Adaptation Using Pseudo Labels for COVID-19 Detection". We won the **1st prize** in the second challenge "Covid-19 Domain Adaptation" of the 4th COV19D competition held in conjunction with CVPR 2024.
+
+<img src="https://github.com/yuanruntian/FDVTS-COV19D-DA/blob/main/arch.jpg">
 
 ## Acknowledgement
 This repo is based on [CMC-COV19D](https://github.com/houjunlin/Team-FDVTS-COVID-Solution).
